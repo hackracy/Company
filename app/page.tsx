@@ -843,9 +843,9 @@ export default function OffDefOpsPage() {
             </div>
 
             <div className="flex items-center gap-4 text-neutral-300">
-              <a href="#" className="hover:text-[#E63946] transition-colors">X (Twitter)</a>
+              <a href="https://x.com/offdefops" className="hover:text-[#E63946] transition-colors">X (Twitter)</a>
               <span>•</span>
-              <a href="#" className="hover:text-[#00A8E8] transition-colors">LinkedIn</a>
+              <a href="https://www.linkedin.com/company/offdefops" className="hover:text-[#00A8E8] transition-colors">LinkedIn</a>
               <span>•</span>
               <a href="#" className="hover:text-white transition-colors">GitHub</a>
               <span>•</span>
